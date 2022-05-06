@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="radio_on_number_drag" id="5T]zW,Z)IPw^!Bo4]XMH" x="0" y="0"><value name="HANDLER_DRAG_PARAM_receivedNumber"><shadow type="argument_reporter_number" id="@[Q4kD33FWP|:qJ,N|0^"><field name="VALUE">receivedNumber</field></shadow></value><statement name="HANDLER"><block type="controls_repeat_ext" id="6~G*LNJzY6A{!JLvXJv0"><value name="TIMES"><shadow type="math_whole_number" id="v!Hum8WVaMoEnzhq@xP:"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="Fx$)y01-Oox%-W8)kaoy"><field name="i">IconNames.Chessboard</field></block></statement></block></statement></block><block type="device_build_image" id="[tWuvY!wv:`3MmM#/Dnp" disabled="true" x="-46" y="202"><field name="LEDS">`
+        # . . . # 
+        # # # # . 
+        # # # # . 
+        . # . # . 
+        # . . . #
+        `</field></block></xml>
